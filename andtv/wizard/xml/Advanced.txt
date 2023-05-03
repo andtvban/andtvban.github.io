@@ -1,0 +1,9 @@
+name="Buffer TVBAN Kodi 18"
+section="yes"
+url="https://tvban.github.io/wizard/xml/Buffer-leia.txt"
+icon="https://tvban.github.io/wizard/imagenes/buffer.png"
+fanart="https://tvban.github.io/wizard/imagenes/fanart.jpg"
+description="Kodi 18 Leia"
+
+
+

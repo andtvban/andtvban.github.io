@@ -1,0 +1,73 @@
+1
+|||
+[COLOR gold][B]Nueva BUILD TVBAN[/B][/COLOR]
+
+[COLOR dodgerblue][B]19/02/2021 - Cambios TVBAN v2021.02.19[/B][/COLOR]
+
+- Redirigidos atajos Listas Chikiry y Magellan. 
+- Redirigidos atajos en peliculas y series.
+- Redirigidos atajos de buscadores de Cristal.
+- Cambiado atajo de series AMC por The CW.
+- Añadido botón actualizar videoteca de kodi + Fondo.
+- Añadido addon Winner Sports + Fondo e icono.
+
+[COLOR limegreen][B]28/12/2020 - Cambios TVBAN v2020.12.28[/B][/COLOR]
+
+- Nuevos atajos Peliculas y Series.
+- Añadido Pluto TV en sección de Televisión.
+- Añadido atajo e icono Utorrent en Peliculas y Series.
+- Nuevos iconos gifs.
+
+
+[COLOR limegreen][B]17/12/2020 - Cambios TVBAN v2020.12.17[/B][/COLOR]
+
+- Cambiado icono Cristal azul.
+- Cambiado enlace destacados.
+- Eliminado atajo e icono Utorrent de MediaExplorer.
+
+
+[COLOR limegreen][B]20/11/2020 - Cambios TVBAN v2020.11.20[/B][/COLOR]
+
+- Editado Menu de ajustes: Configurar Estilo.
+- Cambiado icono en Ajustes Cristal Azul, añadido icono Luar con atajo.
+- Cambiado icono Cristal Azul en Addon
+- Añadido nuevo icono para 4k y atajo.
+- Atajos en Peliculas. 
+
+
+[COLOR limegreen][B]30/10/2020 - Cambios TVBAN v2020.10.30[/B][/COLOR]
+
+- Cambiado iconos en peliculas y series
+- Nuevo addons Palantir 2
+- Atajo en series a Panlantir 2
+
+
+[COLOR limegreen][B]04/10/2020 - Cambios TVBAN v2020.10.04[/B][/COLOR]
+
+- Cambiado widget en series
+- Nueva lista en pvr
+
+[COLOR limegreen][B]28/09/2020 - Cambios TVBAN v2020.09.28[/B][/COLOR]
+
+- Cambiado el modo fecha.
+- Cambiado el modo de ver la fecha y hora.
+
+
+[COLOR lime][B]11/09/2020 - Cambios TVBAN[/B][/COLOR]
+[COLOR white]– Cambiado widget de Películas de MediaExplorer.
+– Cambiados enlaces Destacados de Televisión, ahora son Addons de: Dplay, A3player, Mitele, rtve alacarta... Proviene de Hiraya
+– Agregadas categorías en Televisión 
+– Cambiados algunos ajustes del Skin. [B]Mejora el rendimiento y la fluidez en dispositivos poco potentes[/B]. Se recomienda ir a Ajustes y pulsar el botón Destacados Ac/Des para los dispositivos poco potentes.
+
+Además de esos cambios, el skin también se ha actualizado a la versión 1.8.20, donde se ha incluido un botón en Ajustes para desactivar los widgets Destacados. Estos consumen muchos recursos en dispositivos poco potentes.
+Además se ha arreglado la ventana de información al pulsar en un Destacado o al hacer pulsación larga sobre una película o serie. Ahora muestra mejor la información, los tráilers funcionan y en Reparto & Más se muestran las imágenes correctamente.[/COLOR]
+
+
+[COLOR limegreen][B]SI TIENES DUDAS, EN EL CANAL TELEGRAM TIENES TODO LO NECESARIO: t.me/beelinkgtking[/B][/COLOR]
+- bit.ly/consejos-tvban
+- bit.ly/parches-tvban
+- bit.ly/instalacion-tvban
+- bit.ly/nomefunciona-tvban
+- Además, descargas, manuales, toda la info necesaria para instalar y usar TVBAN.
+
+[COLOR dodgerblue][B]tvban[/B][/COLOR]
