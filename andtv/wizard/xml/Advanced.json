@@ -3,7 +3,7 @@
         {
             "name": "[COLOR red]Buffer Kodi 19 Matrix _ 20 Nexus[/COLOR]",
             "section": true,
-            "url": "https://raw.githubusercontent.com/andtv/andtv.github.io/master/tvban/wizard/xml/Advance-Nexus.json",
+            "url": "https://raw.githubusercontent.com/andtvban/andtvban.github.io/master/andtv/wizard/xml/Advance-Nexus.json",
             "icon": "https://i.imgur.com/87euK1k.png",
             "fanart": "https://i.imgur.com/OjqQwEt.jpg",
             "description": "Diferentes ajustes de buffer para Kodi 19 Matrix y 20 Nexus."
