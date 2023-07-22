@@ -1,4 +1,4 @@
-# Grupo Telegram soporte: https://web.telegram.org/#/im?p=@beelinkking
+# Grupo Telegram soporte: 
 # Fuente: https://andtvban.github.io/andtv/
 
 # MATRIX
@@ -7,4 +7,4 @@
 # NEXUS
 ![img](https://i.imgur.com/cmvc0gK.png)
 
-
+# OMEGA
