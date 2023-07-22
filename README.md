@@ -1,5 +1,5 @@
 # Grupo Telegram soporte: 
-# Fuente: https://andtvban.github.io/andtv/
+# Fuente: https://andtvban.github.io/tvban
 
 # MATRIX
 ![img](https://i.imgur.com/PfZUhyc.png)
