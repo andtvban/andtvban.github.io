@@ -1,12 +1,12 @@
 {
     "presets": [
         {
-            "name": "[COLOR limegreen]Buffer Kodi 19 Matrix[/COLOR]",
+            "name": "[COLOR steelblue]Buffer Kodi 20 [COLOR blueviolet]Nexus[/COLOR]",
             "section": true,
-            "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/wizard/xml/Advance-Matrix.json",
+            "url": "https://raw.githubusercontent.com/andtvban/andtvban.github.io/master/tvban/wizard/xml/Advance-andtvban.json",
             "icon": "https://i.imgur.com/78LMRnT.png",
             "fanart": "https://i.imgur.com/jtTx5ME.jpg",
-            "description": "Diferentes ajustes de buffer para Kodi 19 Matrix."
+            "description": "Diferentes ajustes de buffer para Kodi 20 Nexus."
          }
     ]
 }
