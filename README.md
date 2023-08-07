@@ -9,4 +9,7 @@ https://andtvban.github.io/tvban/
 # NEXUS
 ![img](https://i.imgur.com/cmvc0gK.png)
 
-# OMEGA
+<h1 align="left"> OMEGA </h1>
+<p align="left">
+<img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
