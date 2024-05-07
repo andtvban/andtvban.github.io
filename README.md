@@ -10,7 +10,10 @@ https://andtvban.github.io/tvban/
 # NEXUS
 ![img](https://i.imgur.com/cmvc0gK.png)
 
-<h1 align="left"> OMEGA </h1>
+# OMEGA
+<h1 align="left"> Kodi 21 $\textbf{\color{dodgerblue}Omega}$ </h1>
 <p align="left">
-<img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-</p>
+<img src="https://img.shields.io/badge/ESTADO_ANDTVBAN-EN_PR%C3%93XIMOS_D%C3%8DAS-dodgerblue">
+<img src="https://img.shields.io/badge/FUNCIONANDO-dodgerblue">
+<p align="center">
+<img src="https://i.imgur.com/fbPNcPZ.jpg"> 
