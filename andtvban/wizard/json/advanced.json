@@ -3,7 +3,7 @@
         {
             "name": "[B][COLOR white]Buffer [COLOR steelblue]Kodi: 20 [COLOR blueviolet]Nexus [COLOR steelblue]Kodi: 21 [COLOR dodgerblue]Omega[/COLOR][/B]",
             "section": true,
-            "url": "https://raw.githubusercontent.com/tvbanteam/tvbandteam.github.io/master/andtvban/wizard/json/advanced_tvban.json",
+            "url": "https://raw.githubusercontent.com/andtvban/andtvban.github.io/master/andtvban/wizard/json/advanced_tvban.json",
             "icon": "https://i.imgur.com/9DA4PPp.png",
             "fanart": "https://i.imgur.com/E7zvTh6.jpg",
             "description": "Distintos ajustes de Buffer para Kodi: 20Nexus, 21Omega."
