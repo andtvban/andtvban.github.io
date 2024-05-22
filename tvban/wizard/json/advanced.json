@@ -1,12 +1,12 @@
 {
     "presets": [
         {
-            "name": "[B][COLOR white]Buffer [COLOR steelblue]Kodi: 20 [COLOR blueviolet]Nexus [COLOR steelblue]Kodi: 21 [COLOR dodgerblue]Omega[/COLOR][/B]",
+            "name": "[B][COLOR azure]TVban [COLOR cyan]MATNEXOM [COLOR tomato]Buffer [COLOR steelblue]Kodi: 21 [COLOR dodgerblue]Omega[/COLOR][/B]",
             "section": true,
             "url": "https://raw.githubusercontent.com/andtvban/andtvban.github.io/master/tvban/wizard/json/advanced_tvban.json",
             "icon": "https://i.imgur.com/odiwKeB.png",
             "fanart": "https://imgur.com/dz2sCwC.jpg",
-            "description": "Distintos ajustes de Buffer para Kodi: 20Nexus, 21Omega."
+            "description": "Opciones de ajustes para el Buffer, Kodi: 21 Omega."
         }
     ]
 }
